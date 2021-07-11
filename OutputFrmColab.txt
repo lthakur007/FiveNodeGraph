@@ -1,0 +1,1448 @@
+Combination being tested: (1, 2, 3, 4, 5)
+pid: 843
+Executing Conv2D
+Executing MaxPooking2D
+Executing relu
+Executing add operation
+Executing multiply operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (1, 2, 3, 5, 4)
+pid: 866
+Executing Conv2D
+Executing MaxPooking2D
+Executing relu
+Executing multiply operation
+Executing add operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (1, 2, 4, 3, 5)
+pid: 889
+Executing Conv2D
+Executing MaxPooking2D
+Executing add operation
+Executing relu
+Executing multiply operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (1, 2, 4, 5, 3)
+pid: 910
+Combination being tested: (1, 2, 4, 5, 3)
+Executing Conv2D
+Executing MaxPooking2D
+Executing add operation
+Executing multiply operation
+Executing relu
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (1, 2, 5, 3, 4)
+pid: 931
+Executing Conv2D
+Executing MaxPooking2D
+Executing multiply operation
+Executing relu
+Executing add operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (1, 2, 5, 4, 3)
+pid: 952
+Executing Conv2D
+Executing MaxPooking2D
+Executing multiply operation
+Executing add operation
+Executing relu
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (1, 3, 2, 4, 5)
+pid: 973
+Executing Conv2D
+Executing relu
+Executing MaxPooking2D
+Executing add operation
+Executing multiply operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (1, 3, 2, 5, 4)
+pid: 994
+Combination being tested: (1, 3, 2, 5, 4)
+Executing Conv2D
+Executing relu
+Executing MaxPooking2D
+Executing multiply operation
+Executing add operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (1, 3, 4, 2, 5)
+pid: 1017
+Executing Conv2D
+Executing relu
+Executing add operation
+Executing MaxPooking2D
+Executing multiply operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (1, 3, 4, 5, 2)
+pid: 1040
+Executing Conv2D
+Executing relu
+Executing add operation
+Executing multiply operation
+Executing MaxPooking2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (1, 3, 5, 2, 4)
+pid: 1063
+Executing Conv2D
+Executing relu
+Executing multiply operation
+Executing MaxPooking2D
+Executing add operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (1, 3, 5, 4, 2)
+pid: 1086
+Executing Conv2D
+Executing relu
+Executing multiply operation
+Executing add operation
+Executing MaxPooking2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (1, 4, 2, 3, 5)
+pid: 1111
+Executing Conv2D
+Executing add operation
+Executing MaxPooking2D
+Executing relu
+Executing multiply operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (1, 4, 2, 5, 3)
+pid: 1134
+Executing Conv2D
+Executing add operation
+Executing MaxPooking2D
+Executing multiply operation
+Executing relu
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (1, 4, 3, 2, 5)
+pid: 1157
+Combination being tested: (1, 4, 3, 2, 5)Executing Conv2D
+Executing add operation
+Executing relu
+Executing MaxPooking2D
+Executing multiply operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (1, 4, 3, 5, 2)
+pid: 1180
+Executing Conv2D
+Executing add operation
+Executing relu
+Executing multiply operation
+Executing MaxPooking2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (1, 4, 5, 2, 3)
+pid: 1205
+Executing Conv2D
+Executing add operation
+Executing multiply operation
+Executing MaxPooking2D
+Executing relu
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (1, 4, 5, 3, 2)
+pid: 1228
+Combination being tested: (1, 4, 5, 3, 2)Executing Conv2D
+Executing add operation
+Executing multiply operation
+Executing relu
+Executing MaxPooking2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (1, 5, 2, 3, 4)
+pid: 1251
+Executing Conv2D
+Executing multiply operation
+Executing MaxPooking2D
+Executing relu
+Executing add operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (1, 5, 2, 4, 3)
+pid: 1274
+Executing Conv2D
+Executing multiply operation
+Executing MaxPooking2D
+Executing add operation
+Executing relu
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (1, 5, 3, 2, 4)
+pid: 1299
+Combination being tested: (1, 5, 3, 2, 4)Executing Conv2D
+Executing multiply operation
+Executing relu
+Executing MaxPooking2D
+Executing add operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (1, 5, 3, 4, 2)
+pid: 1322
+Combination being tested: (1, 5, 3, 4, 2)
+Executing Conv2D
+Executing multiply operation
+Executing relu
+Executing add operation
+Executing MaxPooking2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (1, 5, 4, 2, 3)
+pid: 1345
+Executing Conv2D
+Executing multiply operation
+Executing add operation
+Executing MaxPooking2D
+Executing relu
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (1, 5, 4, 3, 2)
+pid: 1366
+Executing Conv2D
+Executing multiply operation
+Executing add operation
+Executing relu
+Executing MaxPooking2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (2, 1, 3, 4, 5)
+pid: 1387
+Executing MaxPooking2D
+Executing Conv2D
+Executing relu
+Executing add operation
+Executing multiply operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (2, 1, 3, 5, 4)
+pid: 1408
+Combination being tested: (2, 1, 3, 5, 4)Executing MaxPooking2D
+Executing Conv2D
+Executing relu
+Executing multiply operation
+Executing add operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (2, 1, 4, 3, 5)
+pid: 1429
+Executing MaxPooking2D
+Executing Conv2D
+Executing add operation
+Executing relu
+Executing multiply operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (2, 1, 4, 5, 3)
+pid: 1450
+Combination being tested: (2, 1, 4, 5, 3)Executing MaxPooking2D
+Executing Conv2D
+Executing add operation
+Executing multiply operation
+Executing relu
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (2, 1, 5, 3, 4)
+pid: 1471
+Executing MaxPooking2D
+Executing Conv2D
+Executing multiply operation
+Executing relu
+Executing add operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (2, 1, 5, 4, 3)
+pid: 1492
+Executing MaxPooking2D
+Executing Conv2D
+Executing multiply operation
+Executing add operation
+Executing relu
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (2, 3, 1, 4, 5)
+pid: 1513
+Executing MaxPooking2D
+Executing relu
+Executing Conv2D
+Executing add operation
+Executing multiply operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (2, 3, 1, 5, 4)
+pid: 1534
+Executing MaxPooking2D
+Executing relu
+Executing Conv2D
+Executing multiply operation
+Executing add operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (2, 3, 4, 1, 5)
+pid: 1555
+Executing MaxPooking2D
+Executing relu
+Executing add operation
+Executing Conv2D
+Executing multiply operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (2, 3, 4, 5, 1)
+pid: 1576
+Executing MaxPooking2D
+Executing relu
+Executing add operation
+Executing multiply operation
+Executing Conv2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (2, 3, 5, 1, 4)
+pid: 1597
+Executing MaxPooking2D
+Executing relu
+Executing multiply operation
+Executing Conv2D
+Executing add operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (2, 3, 5, 4, 1)
+pid: 1618
+Executing MaxPooking2D
+Executing relu
+Executing multiply operation
+Executing add operation
+Executing Conv2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (2, 4, 1, 3, 5)
+pid: 1639
+Executing MaxPooking2D
+Executing add operation
+Executing Conv2D
+Executing relu
+Executing multiply operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (2, 4, 1, 5, 3)
+pid: 1660
+Executing MaxPooking2D
+Executing add operation
+Executing Conv2D
+Executing multiply operation
+Executing relu
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (2, 4, 3, 1, 5)
+pid: 1681
+Executing MaxPooking2D
+Executing add operation
+Executing relu
+Executing Conv2D
+Executing multiply operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (2, 4, 3, 5, 1)
+pid: 1702
+Executing MaxPooking2D
+Executing add operation
+Executing relu
+Executing multiply operation
+Executing Conv2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (2, 4, 5, 1, 3)
+pid: 1723
+Executing MaxPooking2D
+Executing add operation
+Executing multiply operation
+Executing Conv2D
+Executing relu
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (2, 4, 5, 3, 1)
+pid: 1744
+Executing MaxPooking2D
+Executing add operation
+Executing multiply operation
+Executing relu
+Executing Conv2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (2, 5, 1, 3, 4)
+pid: 1765
+Executing MaxPooking2D
+Executing multiply operation
+Executing Conv2D
+Executing relu
+Executing add operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (2, 5, 1, 4, 3)
+pid: 1786
+Executing MaxPooking2D
+Executing multiply operation
+Executing Conv2D
+Executing add operation
+Executing relu
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (2, 5, 3, 1, 4)
+pid: 1807
+Executing MaxPooking2D
+Executing multiply operation
+Executing relu
+Executing Conv2D
+Executing add operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (2, 5, 3, 4, 1)
+pid: 1830
+Executing MaxPooking2D
+Executing multiply operation
+Executing relu
+Executing add operation
+Executing Conv2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (2, 5, 4, 1, 3)
+pid: 1853
+Combination being tested: (2, 5, 4, 1, 3)Executing MaxPooking2D
+Executing multiply operation
+Executing add operation
+Executing Conv2D
+Executing relu
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (2, 5, 4, 3, 1)
+pid: 1876
+Executing MaxPooking2D
+Executing multiply operation
+Executing add operation
+Executing relu
+Executing Conv2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (3, 1, 2, 4, 5)
+pid: 1901
+Executing relu
+Executing Conv2D
+Executing MaxPooking2D
+Executing add operation
+Executing multiply operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (3, 1, 2, 5, 4)
+pid: 1924
+Combination being tested: (3, 1, 2, 5, 4)Executing relu
+Executing Conv2D
+Executing MaxPooking2D
+Executing multiply operation
+Executing add operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (3, 1, 4, 2, 5)
+pid: 1947
+Executing relu
+Executing Conv2D
+Executing add operation
+Executing MaxPooking2D
+Executing multiply operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (3, 1, 4, 5, 2)
+pid: 1968
+Executing relu
+Executing Conv2D
+Executing add operation
+Executing multiply operation
+Executing MaxPooking2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (3, 1, 5, 2, 4)
+pid: 1989
+Executing relu
+Executing Conv2D
+Executing multiply operation
+Executing MaxPooking2D
+Executing add operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (3, 1, 5, 4, 2)
+pid: 2010
+Executing relu
+Executing Conv2D
+Executing multiply operation
+Executing add operation
+Executing MaxPooking2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (3, 2, 1, 4, 5)
+pid: 2031
+Executing relu
+Executing MaxPooking2D
+Executing Conv2D
+Executing add operation
+Executing multiply operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (3, 2, 1, 5, 4)
+pid: 2052
+Executing relu
+Executing MaxPooking2D
+Executing Conv2D
+Executing multiply operation
+Executing add operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (3, 2, 4, 1, 5)
+pid: 2073
+Executing relu
+Executing MaxPooking2D
+Executing add operation
+Executing Conv2D
+Executing multiply operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (3, 2, 4, 5, 1)
+pid: 2094
+Executing relu
+Executing MaxPooking2D
+Executing add operation
+Executing multiply operation
+Executing Conv2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (3, 2, 5, 1, 4)
+pid: 2115
+Executing relu
+Executing MaxPooking2D
+Executing multiply operation
+Executing Conv2D
+Executing add operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (3, 2, 5, 4, 1)
+pid: 2136
+Executing relu
+Executing MaxPooking2D
+Executing multiply operation
+Executing add operation
+Executing Conv2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (3, 4, 1, 2, 5)
+pid: 2157
+Executing relu
+Executing add operation
+Executing Conv2D
+Executing MaxPooking2D
+Executing multiply operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (3, 4, 1, 5, 2)
+pid: 2178
+Executing relu
+Executing add operation
+Executing Conv2D
+Executing multiply operation
+Executing MaxPooking2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (3, 4, 2, 1, 5)
+pid: 2199
+Executing relu
+Executing add operation
+Executing MaxPooking2D
+Executing Conv2D
+Executing multiply operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (3, 4, 2, 5, 1)
+pid: 2220
+Executing relu
+Executing add operation
+Executing MaxPooking2D
+Executing multiply operation
+Executing Conv2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (3, 4, 5, 1, 2)
+pid: 2241
+Executing relu
+Executing add operation
+Executing multiply operation
+Executing Conv2D
+Executing MaxPooking2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (3, 4, 5, 2, 1)
+pid: 2262
+Combination being tested: (3, 4, 5, 2, 1)Executing relu
+Executing add operation
+Executing multiply operation
+Executing MaxPooking2D
+Executing Conv2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (3, 5, 1, 2, 4)
+pid: 2283
+Executing relu
+Executing multiply operation
+Executing Conv2D
+Executing MaxPooking2D
+Executing add operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (3, 5, 1, 4, 2)
+pid: 2304
+Executing relu
+Executing multiply operation
+Executing Conv2D
+Executing add operation
+Executing MaxPooking2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (3, 5, 2, 1, 4)
+pid: 2325
+Combination being tested: (3, 5, 2, 1, 4)Executing relu
+Executing multiply operation
+Executing MaxPooking2D
+Executing Conv2D
+Executing add operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (3, 5, 2, 4, 1)
+pid: 2346
+Executing relu
+Executing multiply operation
+Executing MaxPooking2D
+Executing add operation
+Executing Conv2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (3, 5, 4, 1, 2)
+pid: 2367
+Executing relu
+Executing multiply operation
+Executing add operation
+Executing Conv2D
+Executing MaxPooking2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (3, 5, 4, 2, 1)
+pid: 2388
+Combination being tested: (3, 5, 4, 2, 1)
+Executing relu
+Executing multiply operation
+Executing add operation
+Executing MaxPooking2D
+Executing Conv2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (4, 1, 2, 3, 5)
+pid: 2409
+Executing add operation
+Executing Conv2D
+Executing MaxPooking2D
+Executing relu
+Executing multiply operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (4, 1, 2, 5, 3)
+pid: 2430
+Combination being tested: (4, 1, 2, 5, 3)Executing add operation
+Executing Conv2D
+Executing MaxPooking2D
+Executing multiply operation
+Executing relu
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (4, 1, 3, 2, 5)
+pid: 2451
+Executing add operation
+Executing Conv2D
+Executing relu
+Executing MaxPooking2D
+Executing multiply operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (4, 1, 3, 5, 2)
+pid: 2472
+Executing add operation
+Executing Conv2D
+Executing relu
+Executing multiply operation
+Executing MaxPooking2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (4, 1, 5, 2, 3)
+pid: 2493
+Combination being tested: (4, 1, 5, 2, 3)
+Executing add operation
+Executing Conv2D
+Executing multiply operation
+Executing MaxPooking2D
+Executing relu
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (4, 1, 5, 3, 2)
+pid: 2514
+Executing add operation
+Executing Conv2D
+Executing multiply operation
+Executing relu
+Executing MaxPooking2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (4, 2, 1, 3, 5)
+pid: 2535
+Combination being tested: (4, 2, 1, 3, 5)
+Executing add operation
+Executing MaxPooking2D
+Executing Conv2D
+Executing relu
+Executing multiply operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (4, 2, 1, 5, 3)
+pid: 2556
+Executing add operation
+Executing MaxPooking2D
+Executing Conv2D
+Executing multiply operation
+Executing relu
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (4, 2, 3, 1, 5)
+pid: 2577
+Combination being tested: (4, 2, 3, 1, 5)Executing add operation
+Executing MaxPooking2D
+Executing relu
+Executing Conv2D
+Executing multiply operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (4, 2, 3, 5, 1)
+pid: 2598
+Executing add operation
+Executing MaxPooking2D
+Executing relu
+Executing multiply operation
+Executing Conv2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (4, 2, 5, 1, 3)
+pid: 2619
+Combination being tested: (4, 2, 5, 1, 3)
+Executing add operation
+Executing MaxPooking2D
+Executing multiply operation
+Executing Conv2D
+Executing relu
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (4, 2, 5, 3, 1)
+pid: 2640
+Executing add operation
+Executing MaxPooking2D
+Executing multiply operation
+Executing relu
+Executing Conv2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (4, 3, 1, 2, 5)
+pid: 2661
+Executing add operation
+Executing relu
+Executing Conv2D
+Executing MaxPooking2D
+Executing multiply operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (4, 3, 1, 5, 2)
+pid: 2682
+Executing add operation
+Executing relu
+Executing Conv2D
+Executing multiply operation
+Executing MaxPooking2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (4, 3, 2, 1, 5)
+pid: 2703
+Executing add operation
+Executing relu
+Executing MaxPooking2D
+Executing Conv2D
+Executing multiply operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (4, 3, 2, 5, 1)
+pid: 2724
+Combination being tested: (4, 3, 2, 5, 1)Executing add operation
+Executing relu
+Executing MaxPooking2D
+Executing multiply operation
+Executing Conv2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (4, 3, 5, 1, 2)
+pid: 2745
+Executing add operation
+Executing relu
+Executing multiply operation
+Executing Conv2D
+Executing MaxPooking2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (4, 3, 5, 2, 1)
+pid: 2766
+Executing add operation
+Executing relu
+Executing multiply operation
+Executing MaxPooking2D
+Executing Conv2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (4, 5, 1, 2, 3)
+pid: 2787
+Executing add operation
+Executing multiply operation
+Executing Conv2D
+Executing MaxPooking2D
+Executing relu
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (4, 5, 1, 3, 2)
+pid: 2808
+Executing add operation
+Executing multiply operation
+Executing Conv2D
+Executing relu
+Executing MaxPooking2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (4, 5, 2, 1, 3)
+pid: 2829
+Executing add operation
+Executing multiply operation
+Executing MaxPooking2D
+Executing Conv2D
+Executing relu
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (4, 5, 2, 3, 1)
+pid: 2850
+Executing add operation
+Executing multiply operation
+Executing MaxPooking2D
+Executing relu
+Executing Conv2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (4, 5, 3, 1, 2)
+pid: 2871
+Executing add operation
+Executing multiply operation
+Executing relu
+Executing Conv2D
+Executing MaxPooking2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (4, 5, 3, 2, 1)
+pid: 2892
+Executing add operation
+Executing multiply operation
+Executing relu
+Executing MaxPooking2D
+Executing Conv2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (5, 1, 2, 3, 4)
+pid: 2913
+Executing multiply operation
+Executing Conv2D
+Executing MaxPooking2D
+Executing relu
+Executing add operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (5, 1, 2, 4, 3)
+pid: 2934
+Executing multiply operation
+Executing Conv2D
+Executing MaxPooking2D
+Executing add operation
+Executing relu
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (5, 1, 3, 2, 4)
+pid: 2955
+Executing multiply operation
+Executing Conv2D
+Executing relu
+Executing MaxPooking2D
+Executing add operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (5, 1, 3, 4, 2)
+pid: 2976
+Executing multiply operation
+Executing Conv2D
+Executing relu
+Executing add operation
+Executing MaxPooking2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (5, 1, 4, 2, 3)
+pid: 2997
+Executing multiply operation
+Executing Conv2D
+Executing add operation
+Executing MaxPooking2D
+Executing relu
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (5, 1, 4, 3, 2)
+pid: 3018
+Executing multiply operation
+Executing Conv2D
+Executing add operation
+Executing relu
+Executing MaxPooking2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (5, 2, 1, 3, 4)
+pid: 3041
+Executing multiply operation
+Executing MaxPooking2D
+Executing Conv2D
+Executing relu
+Executing add operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (5, 2, 1, 4, 3)
+pid: 3066
+Executing multiply operation
+Executing MaxPooking2D
+Executing Conv2D
+Executing add operation
+Executing relu
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (5, 2, 3, 1, 4)
+pid: 3087
+Executing multiply operation
+Executing MaxPooking2D
+Executing relu
+Executing Conv2D
+Executing add operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (5, 2, 3, 4, 1)
+pid: 3108
+Executing multiply operation
+Executing MaxPooking2D
+Executing relu
+Executing add operation
+Executing Conv2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (5, 2, 4, 1, 3)
+pid: 3129
+Executing multiply operation
+Executing MaxPooking2D
+Executing add operation
+Executing Conv2D
+Executing relu
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (5, 2, 4, 3, 1)
+pid: 3150
+Combination being tested: (5, 2, 4, 3, 1)
+Executing multiply operation
+Executing MaxPooking2D
+Executing add operation
+Executing relu
+Executing Conv2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (5, 3, 1, 2, 4)
+pid: 3171
+Executing multiply operation
+Executing relu
+Executing Conv2D
+Executing MaxPooking2D
+Executing add operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (5, 3, 1, 4, 2)
+pid: 3192
+Executing multiply operation
+Executing relu
+Executing Conv2D
+Executing add operation
+Executing MaxPooking2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (5, 3, 2, 1, 4)
+pid: 3213
+Combination being tested: (5, 3, 2, 1, 4)Executing multiply operation
+Executing relu
+Executing MaxPooking2D
+Executing Conv2D
+Executing add operation
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (5, 3, 2, 4, 1)
+pid: 3234
+Executing multiply operation
+Executing relu
+Executing MaxPooking2D
+Executing add operation
+Executing Conv2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (5, 3, 4, 1, 2)
+pid: 3255
+Combination being tested: (5, 3, 4, 1, 2)
+Executing multiply operation
+Executing relu
+Executing add operation
+Executing Conv2D
+Executing MaxPooking2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (5, 3, 4, 2, 1)
+pid: 3276
+Executing multiply operation
+Executing relu
+Executing add operation
+Executing MaxPooking2D
+Executing Conv2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (5, 4, 1, 2, 3)
+pid: 3297
+Executing multiply operation
+Executing add operation
+Executing Conv2D
+Executing MaxPooking2D
+Executing relu
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (5, 4, 1, 3, 2)
+pid: 3318
+Executing multiply operation
+Executing add operation
+Executing Conv2D
+Executing relu
+Executing MaxPooking2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (5, 4, 2, 1, 3)
+pid: 3339
+Executing multiply operation
+Executing add operation
+Executing MaxPooking2D
+Executing Conv2D
+Executing relu
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (5, 4, 2, 3, 1)
+pid: 3360
+Executing multiply operation
+Executing add operation
+Executing MaxPooking2D
+Executing relu
+Executing Conv2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (5, 4, 3, 1, 2)
+pid: 3381
+Executing multiply operation
+Executing add operation
+Executing relu
+Executing Conv2D
+Executing MaxPooking2D
+Combination executed successfully
+
+
+SystemExit
+
+Combination being tested: (5, 4, 3, 2, 1)
+pid: 3402
+Executing multiply operation
+Executing add operation
+Executing relu
+Executing MaxPooking2D
+Executing Conv2D
+Combination executed successfully
+
+
+SystemExit

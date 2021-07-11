@@ -1,0 +1,964 @@
+
+2.3.0
+Combination being tested: (1, 2, 3, 4, 5)
+pid: 1208900
+Executing Conv2D
+Executing MaxPooking2D
+Executing relu
+Executing add operation
+Executing multiply operation
+Combination executed successfully
+Combination being tested: (1, 2, 3, 5, 4)
+pid: 1209098
+Executing Conv2D
+Executing MaxPooking2D
+Executing relu
+Executing multiply operation
+Executing add operation
+Combination executed successfully
+Combination being tested: (1, 2, 4, 3, 5)
+pid: 1209301
+Executing Conv2D
+Executing MaxPooking2D
+Executing add operation
+Executing relu
+Executing multiply operation
+Combination executed successfully
+Combination being tested: (1, 2, 4, 5, 3)
+pid: 1209648
+Executing Conv2D
+Executing MaxPooking2D
+Executing add operation
+Executing multiply operation
+Executing relu
+Combination executed successfully
+Combination being tested: (1, 2, 5, 3, 4)
+pid: 1209865
+Executing Conv2D
+Executing MaxPooking2D
+Executing multiply operation
+Executing relu
+Executing add operation
+Combination executed successfully
+Combination being tested: (1, 2, 5, 4, 3)
+pid: 1210078
+Executing Conv2D
+Executing MaxPooking2D
+Executing multiply operation
+Executing add operation
+Executing relu
+Combination executed successfully
+Combination being tested: (1, 3, 2, 4, 5)
+pid: 1210281
+Executing Conv2D
+Executing relu
+Executing MaxPooking2D
+Executing add operation
+Executing multiply operation
+Combination executed successfully
+Combination being tested: (1, 3, 2, 5, 4)
+pid: 1210550
+Executing Conv2D
+Executing relu
+Executing MaxPooking2D
+Executing multiply operation
+Executing add operation
+Combination executed successfully
+Combination being tested: (1, 3, 4, 2, 5)
+pid: 1210874
+Executing Conv2D
+Executing relu
+Executing add operation
+Executing MaxPooking2D
+Executing multiply operation
+Combination executed successfully
+Combination being tested: (1, 3, 4, 5, 2)
+pid: 1211100
+Executing Conv2D
+Executing relu
+Executing add operation
+Executing multiply operation
+Executing MaxPooking2D
+Combination executed successfully
+Combination being tested: (1, 3, 5, 2, 4)
+pid: 1211312
+Executing Conv2D
+Executing relu
+Executing multiply operation
+Executing MaxPooking2D
+Executing add operation
+Combination executed successfully
+Combination being tested: (1, 3, 5, 4, 2)
+pid: 1211588
+Executing Conv2D
+Executing relu
+Executing multiply operation
+Executing add operation
+Executing MaxPooking2D
+Combination executed successfully
+Combination being tested: (1, 4, 2, 3, 5)
+pid: 1212030
+Executing Conv2D
+Executing add operation
+Executing MaxPooking2D
+Executing relu
+Executing multiply operation
+Combination executed successfully
+Combination being tested: (1, 4, 2, 5, 3)
+pid: 1212395
+Executing Conv2D
+Executing add operation
+Executing MaxPooking2D
+Executing multiply operation
+Executing relu
+Combination executed successfully
+Combination being tested: (1, 4, 3, 2, 5)
+pid: 1212818
+Executing Conv2D
+Executing add operation
+Executing relu
+Executing MaxPooking2D
+Executing multiply operation
+Combination executed successfully
+Combination being tested: (1, 4, 3, 5, 2)
+pid: 1213242
+Executing Conv2D
+Executing add operation
+Executing relu
+Executing multiply operation
+Executing MaxPooking2D
+Combination executed successfully
+Combination being tested: (1, 4, 5, 2, 3)
+pid: 1213522
+Executing Conv2D
+Executing add operation
+Executing multiply operation
+Executing MaxPooking2D
+Executing relu
+Combination executed successfully
+Combination being tested: (1, 4, 5, 3, 2)
+pid: 1213809
+Executing Conv2D
+Executing add operation
+Executing multiply operation
+Executing relu
+Executing MaxPooking2D
+Combination executed successfully
+Combination being tested: (1, 5, 2, 3, 4)
+pid: 1214038
+Executing Conv2D
+Executing multiply operation
+Executing MaxPooking2D
+Executing relu
+Executing add operation
+Combination executed successfully
+Combination being tested: (1, 5, 2, 4, 3)
+pid: 1214293
+Executing Conv2D
+Executing multiply operation
+Executing MaxPooking2D
+Executing add operation
+Executing relu
+Combination executed successfully
+Combination being tested: (1, 5, 3, 2, 4)
+pid: 1214491
+Executing Conv2D
+Executing multiply operation
+Executing relu
+Executing MaxPooking2D
+Executing add operation
+Combination executed successfully
+Combination being tested: (1, 5, 3, 4, 2)
+pid: 1214695
+Executing Conv2D
+Executing multiply operation
+Executing relu
+Executing add operation
+Executing MaxPooking2D
+Combination executed successfully
+Combination being tested: (1, 5, 4, 2, 3)
+pid: 1214893
+Executing Conv2D
+Executing multiply operation
+Executing add operation
+Executing MaxPooking2D
+Executing relu
+Combination executed successfully
+Combination being tested: (1, 5, 4, 3, 2)
+pid: 1215101
+Executing Conv2D
+Executing multiply operation
+Executing add operation
+Executing relu
+Executing MaxPooking2D
+Combination executed successfully
+Combination being tested: (2, 1, 3, 4, 5)
+pid: 1215311
+Executing MaxPooking2D
+Executing Conv2D
+Executing relu
+Executing add operation
+Executing multiply operation
+Combination executed successfully
+Combination being tested: (2, 1, 3, 5, 4)
+pid: 1215508
+Executing MaxPooking2D
+Executing Conv2D
+Executing relu
+Executing multiply operation
+Executing add operation
+Combination executed successfully
+Combination being tested: (2, 1, 4, 3, 5)
+pid: 1215711
+Executing MaxPooking2D
+Executing Conv2D
+Executing add operation
+Executing relu
+Executing multiply operation
+Combination executed successfully
+Combination being tested: (2, 1, 4, 5, 3)
+pid: 1215911
+Executing MaxPooking2D
+Executing Conv2D
+Executing add operation
+Executing multiply operation
+Executing relu
+Combination executed successfully
+Combination being tested: (2, 1, 5, 3, 4)
+pid: 1216116
+Executing MaxPooking2D
+Executing Conv2D
+Executing multiply operation
+Executing relu
+Executing add operation
+Combination executed successfully
+Combination being tested: (2, 1, 5, 4, 3)
+pid: 1216436
+Executing MaxPooking2D
+Executing Conv2D
+Executing multiply operation
+Executing add operation
+Executing relu
+Combination executed successfully
+Combination being tested: (2, 3, 1, 4, 5)
+pid: 1216647
+Executing MaxPooking2D
+Executing relu
+Executing Conv2D
+Executing add operation
+Executing multiply operation
+Combination executed successfully
+Combination being tested: (2, 3, 1, 5, 4)
+pid: 1216850
+Executing MaxPooking2D
+Executing relu
+Executing Conv2D
+Executing multiply operation
+Executing add operation
+Combination executed successfully
+Combination being tested: (2, 3, 4, 1, 5)
+pid: 1217063
+Executing MaxPooking2D
+Executing relu
+Executing add operation
+Executing Conv2D
+Executing multiply operation
+Combination executed successfully
+Combination being tested: (2, 3, 4, 5, 1)
+pid: 1217261
+Executing MaxPooking2D
+Executing relu
+Executing add operation
+Executing multiply operation
+Executing Conv2D
+Combination executed successfully
+Combination being tested: (2, 3, 5, 1, 4)
+pid: 1217471
+Executing MaxPooking2D
+Executing relu
+Executing multiply operation
+Executing Conv2D
+Executing add operation
+Combination executed successfully
+Combination being tested: (2, 3, 5, 4, 1)
+pid: 1217681
+Executing MaxPooking2D
+Executing relu
+Executing multiply operation
+Executing add operation
+Executing Conv2D
+Combination executed successfully
+Combination being tested: (2, 4, 1, 3, 5)
+pid: 1217891
+Executing MaxPooking2D
+Executing add operation
+Executing Conv2D
+Executing relu
+Executing multiply operation
+Combination executed successfully
+Combination being tested: (2, 4, 1, 5, 3)
+pid: 1218101
+Executing MaxPooking2D
+Executing add operation
+Executing Conv2D
+Executing multiply operation
+Executing relu
+Combination executed successfully
+Combination being tested: (2, 4, 3, 1, 5)
+pid: 1218299
+Executing MaxPooking2D
+Executing add operation
+Executing relu
+Executing Conv2D
+Executing multiply operation
+Combination executed successfully
+Combination being tested: (2, 4, 3, 5, 1)
+pid: 1218512
+Executing MaxPooking2D
+Executing add operation
+Executing relu
+Executing multiply operation
+Executing Conv2D
+Combination executed successfully
+Combination being tested: (2, 4, 5, 1, 3)
+pid: 1218723
+Executing MaxPooking2D
+Executing add operation
+Executing multiply operation
+Executing Conv2D
+Executing relu
+Combination executed successfully
+Combination being tested: (2, 4, 5, 3, 1)
+pid: 1218933
+Executing MaxPooking2D
+Executing add operation
+Executing multiply operation
+Executing relu
+Executing Conv2D
+Combination executed successfully
+Combination being tested: (2, 5, 1, 3, 4)
+pid: 1219142
+Executing MaxPooking2D
+Executing multiply operation
+Executing Conv2D
+Executing relu
+Executing add operation
+Combination executed successfully
+Combination being tested: (2, 5, 1, 4, 3)
+pid: 1219346
+Executing MaxPooking2D
+Executing multiply operation
+Executing Conv2D
+Executing add operation
+Executing relu
+Combination executed successfully
+Combination being tested: (2, 5, 3, 1, 4)
+pid: 1219550
+Executing MaxPooking2D
+Executing multiply operation
+Executing relu
+Executing Conv2D
+Executing add operation
+Combination executed successfully
+Combination being tested: (2, 5, 3, 4, 1)
+pid: 1219760
+Executing MaxPooking2D
+Executing multiply operation
+Executing relu
+Executing add operation
+Executing Conv2D
+Combination executed successfully
+Combination being tested: (2, 5, 4, 1, 3)
+pid: 1219969
+Executing MaxPooking2D
+Executing multiply operation
+Executing add operation
+Executing Conv2D
+Executing relu
+Combination executed successfully
+Combination being tested: (2, 5, 4, 3, 1)
+pid: 1220180
+Executing MaxPooking2D
+Executing multiply operation
+Executing add operation
+Executing relu
+Executing Conv2D
+Combination executed successfully
+Combination being tested: (3, 1, 2, 4, 5)
+pid: 1220390
+Executing relu
+Executing Conv2D
+Executing MaxPooking2D
+Executing add operation
+Executing multiply operation
+Combination executed successfully
+Combination being tested: (3, 1, 2, 5, 4)
+pid: 1220587
+Executing relu
+Executing Conv2D
+Executing MaxPooking2D
+Executing multiply operation
+Executing add operation
+Combination executed successfully
+Combination being tested: (3, 1, 4, 2, 5)
+pid: 1220796
+Executing relu
+Executing Conv2D
+Executing add operation
+Executing MaxPooking2D
+Executing multiply operation
+Combination executed successfully
+Combination being tested: (3, 1, 4, 5, 2)
+pid: 1221006
+Executing relu
+Executing Conv2D
+Executing add operation
+Executing multiply operation
+Executing MaxPooking2D
+Combination executed successfully
+Combination being tested: (3, 1, 5, 2, 4)
+pid: 1221216
+Executing relu
+Executing Conv2D
+Executing multiply operation
+Executing MaxPooking2D
+Executing add operation
+Combination executed successfully
+Combination being tested: (3, 1, 5, 4, 2)
+pid: 1221426
+Executing relu
+Executing Conv2D
+Executing multiply operation
+Executing add operation
+Executing MaxPooking2D
+Combination executed successfully
+Combination being tested: (3, 2, 1, 4, 5)
+pid: 1221624
+Executing relu
+Executing MaxPooking2D
+Executing Conv2D
+Executing add operation
+Executing multiply operation
+Combination executed successfully
+Combination being tested: (3, 2, 1, 5, 4)
+pid: 1221833
+Executing relu
+Executing MaxPooking2D
+Executing Conv2D
+Executing multiply operation
+Executing add operation
+Combination executed successfully
+Combination being tested: (3, 2, 4, 1, 5)
+pid: 1222042
+Executing relu
+Executing MaxPooking2D
+Executing add operation
+Executing Conv2D
+Executing multiply operation
+Combination executed successfully
+Combination being tested: (3, 2, 4, 5, 1)
+pid: 1222253
+Executing relu
+Executing MaxPooking2D
+Executing add operation
+Executing multiply operation
+Executing Conv2D
+Combination executed successfully
+Combination being tested: (3, 2, 5, 1, 4)
+pid: 1222463
+Executing relu
+Executing MaxPooking2D
+Executing multiply operation
+Executing Conv2D
+Executing add operation
+Combination executed successfully
+Combination being tested: (3, 2, 5, 4, 1)
+pid: 1222673
+Executing relu
+Executing MaxPooking2D
+Executing multiply operation
+Executing add operation
+Executing Conv2D
+Combination executed successfully
+Combination being tested: (3, 4, 1, 2, 5)
+pid: 1222871
+Executing relu
+Executing add operation
+Executing Conv2D
+Executing MaxPooking2D
+Executing multiply operation
+Combination executed successfully
+Combination being tested: (3, 4, 1, 5, 2)
+pid: 1223081
+Executing relu
+Executing add operation
+Executing Conv2D
+Executing multiply operation
+Executing MaxPooking2D
+Combination executed successfully
+Combination being tested: (3, 4, 2, 1, 5)
+pid: 1223290
+Executing relu
+Executing add operation
+Executing MaxPooking2D
+Executing Conv2D
+Executing multiply operation
+Combination executed successfully
+Combination being tested: (3, 4, 2, 5, 1)
+pid: 1223503
+Executing relu
+Executing add operation
+Executing MaxPooking2D
+Executing multiply operation
+Executing Conv2D
+Combination executed successfully
+Combination being tested: (3, 4, 5, 1, 2)
+pid: 1223712
+Executing relu
+Executing add operation
+Executing multiply operation
+Executing Conv2D
+Executing MaxPooking2D
+Combination executed successfully
+Combination being tested: (3, 4, 5, 2, 1)
+pid: 1223910
+Executing relu
+Executing add operation
+Executing multiply operation
+Executing MaxPooking2D
+Executing Conv2D
+Combination executed successfully
+Combination being tested: (3, 5, 1, 2, 4)
+pid: 1224120
+Executing relu
+Executing multiply operation
+Executing Conv2D
+Executing MaxPooking2D
+Executing add operation
+Combination executed successfully
+Combination being tested: (3, 5, 1, 4, 2)
+pid: 1224330
+Executing relu
+Executing multiply operation
+Executing Conv2D
+Executing add operation
+Executing MaxPooking2D
+Combination executed successfully
+Combination being tested: (3, 5, 2, 1, 4)
+pid: 1224540
+Executing relu
+Executing multiply operation
+Executing MaxPooking2D
+Executing Conv2D
+Executing add operation
+Combination executed successfully
+Combination being tested: (3, 5, 2, 4, 1)
+pid: 1224750
+Executing relu
+Executing multiply operation
+Executing MaxPooking2D
+Executing add operation
+Executing Conv2D
+Combination executed successfully
+Combination being tested: (3, 5, 4, 1, 2)
+pid: 1224949
+Executing relu
+Executing multiply operation
+Executing add operation
+Executing Conv2D
+Executing MaxPooking2D
+Combination executed successfully
+Combination being tested: (3, 5, 4, 2, 1)
+pid: 1225158
+Executing relu
+Executing multiply operation
+Executing add operation
+Executing MaxPooking2D
+Executing Conv2D
+Combination executed successfully
+Combination being tested: (4, 1, 2, 3, 5)
+pid: 1225368
+Executing add operation
+Executing Conv2D
+Executing MaxPooking2D
+Executing relu
+Executing multiply operation
+Combination executed successfully
+Combination being tested: (4, 1, 2, 5, 3)
+pid: 1225578
+Executing add operation
+Executing Conv2D
+Executing MaxPooking2D
+Executing multiply operation
+Executing relu
+Combination executed successfully
+Combination being tested: (4, 1, 3, 2, 5)
+pid: 1225788
+Executing add operation
+Executing Conv2D
+Executing relu
+Executing MaxPooking2D
+Executing multiply operation
+Combination executed successfully
+Combination being tested: (4, 1, 3, 5, 2)
+pid: 1225997
+Executing add operation
+Executing Conv2D
+Executing relu
+Executing multiply operation
+Executing MaxPooking2D
+Combination executed successfully
+Combination being tested: (4, 1, 5, 2, 3)
+pid: 1226195
+Executing add operation
+Executing Conv2D
+Executing multiply operation
+Executing MaxPooking2D
+Executing relu
+Combination executed successfully
+Combination being tested: (4, 1, 5, 3, 2)
+pid: 1226405
+Executing add operation
+Executing Conv2D
+Executing multiply operation
+Executing relu
+Executing MaxPooking2D
+Combination executed successfully
+Combination being tested: (4, 2, 1, 3, 5)
+pid: 1226614
+Executing add operation
+Executing MaxPooking2D
+Executing Conv2D
+Executing relu
+Executing multiply operation
+Combination executed successfully
+Combination being tested: (4, 2, 1, 5, 3)
+pid: 1226824
+Executing add operation
+Executing MaxPooking2D
+Executing Conv2D
+Executing multiply operation
+Executing relu
+Combination executed successfully
+Combination being tested: (4, 2, 3, 1, 5)
+pid: 1227034
+Executing add operation
+Executing MaxPooking2D
+Executing relu
+Executing Conv2D
+Executing multiply operation
+Combination executed successfully
+Combination being tested: (4, 2, 3, 5, 1)
+pid: 1227232
+Executing add operation
+Executing MaxPooking2D
+Executing relu
+Executing multiply operation
+Executing Conv2D
+Combination executed successfully
+Combination being tested: (4, 2, 5, 1, 3)
+pid: 1227442
+Executing add operation
+Executing MaxPooking2D
+Executing multiply operation
+Executing Conv2D
+Executing relu
+Combination executed successfully
+Combination being tested: (4, 2, 5, 3, 1)
+pid: 1227652
+Executing add operation
+Executing MaxPooking2D
+Executing multiply operation
+Executing relu
+Executing Conv2D
+Combination executed successfully
+Combination being tested: (4, 3, 1, 2, 5)
+pid: 1227862
+Executing add operation
+Executing relu
+Executing Conv2D
+Executing MaxPooking2D
+Executing multiply operation
+Combination executed successfully
+Combination being tested: (4, 3, 1, 5, 2)
+pid: 1228071
+Executing add operation
+Executing relu
+Executing Conv2D
+Executing multiply operation
+Executing MaxPooking2D
+Combination executed successfully
+Combination being tested: (4, 3, 2, 1, 5)
+pid: 1228278
+Executing add operation
+Executing relu
+Executing MaxPooking2D
+Executing Conv2D
+Executing multiply operation
+Combination executed successfully
+Combination being tested: (4, 3, 2, 5, 1)
+pid: 1228538
+Executing add operation
+Executing relu
+Executing MaxPooking2D
+Executing multiply operation
+Executing Conv2D
+Combination executed successfully
+Combination being tested: (4, 3, 5, 1, 2)
+pid: 1228748
+Executing add operation
+Executing relu
+Executing multiply operation
+Executing Conv2D
+Executing MaxPooking2D
+Combination executed successfully
+Combination being tested: (4, 3, 5, 2, 1)
+pid: 1228958
+Executing add operation
+Executing relu
+Executing multiply operation
+Executing MaxPooking2D
+Executing Conv2D
+Combination executed successfully
+Combination being tested: (4, 5, 1, 2, 3)
+pid: 1229168
+Executing add operation
+Executing multiply operation
+Executing Conv2D
+Executing MaxPooking2D
+Executing relu
+Combination executed successfully
+Combination being tested: (4, 5, 1, 3, 2)
+pid: 1229378
+Executing add operation
+Executing multiply operation
+Executing Conv2D
+Executing relu
+Executing MaxPooking2D
+Combination executed successfully
+Combination being tested: (4, 5, 2, 1, 3)
+pid: 1229578
+Executing add operation
+Executing multiply operation
+Executing MaxPooking2D
+Executing Conv2D
+Executing relu
+Combination executed successfully
+Combination being tested: (4, 5, 2, 3, 1)
+pid: 1229789
+Executing add operation
+Executing multiply operation
+Executing MaxPooking2D
+Executing relu
+Executing Conv2D
+Combination executed successfully
+Combination being tested: (4, 5, 3, 1, 2)
+pid: 1229999
+Executing add operation
+Executing multiply operation
+Executing relu
+Executing Conv2D
+Executing MaxPooking2D
+Combination executed successfully
+Combination being tested: (4, 5, 3, 2, 1)
+pid: 1230208
+Executing add operation
+Executing multiply operation
+Executing relu
+Executing MaxPooking2D
+Executing Conv2D
+Combination executed successfully
+Combination being tested: (5, 1, 2, 3, 4)
+pid: 1230418
+Executing multiply operation
+Executing Conv2D
+Executing MaxPooking2D
+Executing relu
+Executing add operation
+Combination executed successfully
+Combination being tested: (5, 1, 2, 4, 3)
+pid: 1230616
+Executing multiply operation
+Executing Conv2D
+Executing MaxPooking2D
+Executing add operation
+Executing relu
+Combination executed successfully
+Combination being tested: (5, 1, 3, 2, 4)
+pid: 1230825
+Executing multiply operation
+Executing Conv2D
+Executing relu
+Executing MaxPooking2D
+Executing add operation
+Combination executed successfully
+Combination being tested: (5, 1, 3, 4, 2)
+pid: 1231035
+Executing multiply operation
+Executing Conv2D
+Executing relu
+Executing add operation
+Executing MaxPooking2D
+Combination executed successfully
+Combination being tested: (5, 1, 4, 2, 3)
+pid: 1231245
+Executing multiply operation
+Executing Conv2D
+Executing add operation
+Executing MaxPooking2D
+Executing relu
+Combination executed successfully
+Combination being tested: (5, 1, 4, 3, 2)
+pid: 1231455
+Executing multiply operation
+Executing Conv2D
+Executing add operation
+Executing relu
+Executing MaxPooking2D
+Combination executed successfully
+Combination being tested: (5, 2, 1, 3, 4)
+pid: 1231667
+Executing multiply operation
+Executing MaxPooking2D
+Executing Conv2D
+Executing relu
+Executing add operation
+Combination executed successfully
+Combination being tested: (5, 2, 1, 4, 3)
+pid: 1231866
+Executing multiply operation
+Executing MaxPooking2D
+Executing Conv2D
+Executing add operation
+Executing relu
+Combination executed successfully
+Combination being tested: (5, 2, 3, 1, 4)
+pid: 1232077
+Executing multiply operation
+Executing MaxPooking2D
+Executing relu
+Executing Conv2D
+Executing add operation
+Combination executed successfully
+Combination being tested: (5, 2, 3, 4, 1)
+pid: 1232287
+Executing multiply operation
+Executing MaxPooking2D
+Executing relu
+Executing add operation
+Executing Conv2D
+Combination executed successfully
+Combination being tested: (5, 2, 4, 1, 3)
+pid: 1232497
+Executing multiply operation
+Executing MaxPooking2D
+Executing add operation
+Executing Conv2D
+Executing relu
+Combination executed successfully
+Combination being tested: (5, 2, 4, 3, 1)
+pid: 1232707
+Executing multiply operation
+Executing MaxPooking2D
+Executing add operation
+Executing relu
+Executing Conv2D
+Combination executed successfully
+Combination being tested: (5, 3, 1, 2, 4)
+pid: 1232905
+Executing multiply operation
+Executing relu
+Executing Conv2D
+Executing MaxPooking2D
+Executing add operation
+Combination executed successfully
+Combination being tested: (5, 3, 1, 4, 2)
+pid: 1233117
+Executing multiply operation
+Executing relu
+Executing Conv2D
+Executing add operation
+Executing MaxPooking2D
+Combination executed successfully
+Combination being tested: (5, 3, 2, 1, 4)
+pid: 1233327
+Executing multiply operation
+Executing relu
+Executing MaxPooking2D
+Executing Conv2D
+Executing add operation
+Combination executed successfully
+Combination being tested: (5, 3, 2, 4, 1)
+pid: 1233537
+Executing multiply operation
+Executing relu
+Executing MaxPooking2D
+Executing add operation
+Executing Conv2D
+Combination executed successfully
+Combination being tested: (5, 3, 4, 1, 2)
+pid: 1233747
+Executing multiply operation
+Executing relu
+Executing add operation
+Executing Conv2D
+Executing MaxPooking2D
+Combination executed successfully
+Combination being tested: (5, 3, 4, 2, 1)
+pid: 1233945
+Executing multiply operation
+Executing relu
+Executing add operation
+Executing MaxPooking2D
+Executing Conv2D
+Combination executed successfully
+Combination being tested: (5, 4, 1, 2, 3)
+pid: 1234155
+Executing multiply operation
+Executing add operation
+Executing Conv2D
+Executing MaxPooking2D
+Executing relu
+Combination executed successfully
+Combination being tested: (5, 4, 1, 3, 2)
+pid: 1234366
+Executing multiply operation
+Executing add operation
+Executing Conv2D
+Executing relu
+Executing MaxPooking2D
+Combination executed successfully
+Combination being tested: (5, 4, 2, 1, 3)
+pid: 1234576
+Executing multiply operation
+Executing add operation
+Executing MaxPooking2D
+Executing Conv2D
+Executing relu
+Combination executed successfully
+Combination being tested: (5, 4, 2, 3, 1)
+pid: 1234786
+Executing multiply operation
+Executing add operation
+Executing MaxPooking2D
+Executing relu
+Executing Conv2D
+Combination executed successfully
+Combination being tested: (5, 4, 3, 1, 2)
+pid: 1234995
+Executing multiply operation
+
+Executing add operation
+Executing relu
+Executing Conv2D
+Executing MaxPooking2D
+Combination executed successfully
+Combination being tested: (5, 4, 3, 2, 1)
+pid: 1235193
+Executing multiply operation
+Executing add operation
+Executing relu
+Executing MaxPooking2D
+Executing Conv2D
+Combination executed successfully
+
